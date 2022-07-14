@@ -1,7 +1,7 @@
 # <center>Data preprocessing</center>
 
 Example:
-[Data preprocessing](/Part%201%20-%20Data%20Preprocessing/Section%202%20--------------------%20Part%201%20-%20Data%20Preprocessing%20--------------------/Python/data_preprocessing_tools.ipynb)
+[Data preprocessing](/Part%201%20-%20Data%20Preprocessing/Python/data_preprocessing_tools.ipynb)
 
 First steps:
 We need to import libaries, import dataset.
