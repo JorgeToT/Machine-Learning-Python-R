@@ -1,5 +1,7 @@
 # Simple Linear Regression Model
 
+[Home](/)
+
 $$y=\alpha x+\beta$$
 
 The model tries to minimize the sum of the squared errors. It means we have to minimize $\sum_0^n |y(x) - y|$, and the model whose have the minimum sum of the squared errors is the best model.
