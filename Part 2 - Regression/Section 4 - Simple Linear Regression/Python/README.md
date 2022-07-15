@@ -1,6 +1,6 @@
 # Simple Linear Regression Model
 
-[Home](/)
+[Home](https://github.com/JorgeToT/Machine-Learning-Python-R)
 
 Example:
 [Simple Linear Regression](simple_linear_regression.ipynb)
