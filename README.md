@@ -1,9 +1,9 @@
 # Machine Learning with Python and R
 
-## Content (Python code):
-
-* [Part 1: Preprocessing data](/Part%201%20-%20Data%20Preprocessing/Python/)
-* [Part 2: Regression models](/Part%202%20-%20Regression/)
+* Part 1: Data Preprocessing
+  * [Preprocessing](/Part%201%20-%20Data%20Preprocessing/Python/)
+    * [Example](/Part%201%20-%20Data%20Preprocessing/Python/data_preprocessing_tools.ipynb)
+* Part 2: Regression models
   * [Simple Linear Regression Model](/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/Python/)
     * [Example](/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/Python/simple_linear_regression.ipynb)
     * Form: $y = \alpha x + \beta$
@@ -18,19 +18,10 @@
     * Like the Linear Regression Model, the SVR model is a linear model that is used to predict the value of a dependent variable as a function of the values of the independent variables. Have $\epsilon$ be the error margin.
   * [Decision Tree Regression Model](/Part%202%20-%20Regression/Section%208%20-%20Decision%20Tree%20Regression/Python/)
     * [Example](/Part%202%20-%20Regression/Section%208%20-%20Decision%20Tree%20Regression/Python/decision_tree_regression.ipynb)
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    B-->E;
-    C-->F;
-    C-->G;
-```
   * [Random Forest Regression Model](/Part%202%20-%20Regression/Section%209%20-%20Random%20Forest%20Regression/Python/)
     * [Example](/Part%202%20-%20Regression/Section%209%20-%20Random%20Forest%20Regression/Python/random_forest_regression.ipynb)
     * A random forest is a set of decision trees that are used to predict the value of a dependent variable as a function of the values of the independent variables.
-* [Part 3: Classification models](/Part%203%20-%20Classification/)
+* Part 3: Classification models
   * [Logistic Regression Model](/Part%203%20-%20Classification/Section%2014%20-%20Logistic%20Regression/Python/)
   * [K-Nearest Neighbors (K-NN) Model](/Part%203%20-%20Classification/Section%2015%20-%20K-Nearest%20Neighbors%20(K-NN)/Python)
   * [Support Vetor Machine (SVM) Model](/Part%203%20-%20Classification/Section%2016%20-%20Support%20Vector%20Machine%20(SVM)/Python)
