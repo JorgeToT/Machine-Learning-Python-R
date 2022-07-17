@@ -3,6 +3,7 @@
 * Part 1: Data Preprocessing
   * [Preprocessing](/Part%201%20-%20Data%20Preprocessing/Python/)
     * [Example](/Part%201%20-%20Data%20Preprocessing/Python/data_preprocessing_tools.ipynb)
+
 * Part 2: Regression models
   * [Simple Linear Regression Model](/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/Python/)
     * [Example](/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/Python/simple_linear_regression.ipynb)
@@ -21,7 +22,14 @@
   * [Random Forest Regression Model](/Part%202%20-%20Regression/Section%209%20-%20Random%20Forest%20Regression/Python/)
     * [Example](/Part%202%20-%20Regression/Section%209%20-%20Random%20Forest%20Regression/Python/random_forest_regression.ipynb)
     * A random forest is a set of decision trees that are used to predict the value of a dependent variable as a function of the values of the independent variables.
+
 * Part 3: Classification models
   * [Logistic Regression Model](/Part%203%20-%20Classification/Section%2014%20-%20Logistic%20Regression/Python/)
+    * [Example](/Part%203%20-%20Classification/Section%2014%20-%20Logistic%20Regression/Python/logistic_regression.ipynb)
+    * This model provides a classification model with a lineal separator. The lineal separator is a line that separates the two classes of data.
   * [K-Nearest Neighbors (K-NN) Model](/Part%203%20-%20Classification/Section%2015%20-%20K-Nearest%20Neighbors%20(K-NN)/Python)
+    * [Example](/Part%203%20-%20Classification/Section%2015%20-%20K-Nearest%20Neighbors%20(K-NN)/Python/k_nearest_neighbors.ipynb)
+    * This model calculate the distance between the data and the nearest neighbor. The nearest neighbor is the data point that is closest to the data.
   * [Support Vetor Machine (SVM) Model](/Part%203%20-%20Classification/Section%2016%20-%20Support%20Vector%20Machine%20(SVM)/Python)
+    * [Example](/Part%203%20-%20Classification/Section%2016%20-%20Support%20Vector%20Machine%20(SVM)/Python/support_vector_machine.ipynb)
+    * SVM works by mapping data to a high-dimensional feature space so that data points can be categorized, even when the data are not otherwise linearly separable.
