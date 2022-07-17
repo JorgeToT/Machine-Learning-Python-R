@@ -33,9 +33,15 @@
   * [Support Vetor Machine (SVM) Model](/Part%203%20-%20Classification/Section%2016%20-%20Support%20Vector%20Machine%20(SVM)/Python)
     * [Example](/Part%203%20-%20Classification/Section%2016%20-%20Support%20Vector%20Machine%20(SVM)/Python/support_vector_machine.ipynb)
     * SVM works by mapping data to a high-dimensional feature space so that data points can be categorized, even when the data are not otherwise linearly separable.
-  * [Kernel SVM](/Part%203%20-%20Classification/Section%2017%20-%20Kernel%20SVM/)
+  * [Kernel SVM](/Part%203%20-%20Classification/Section%2017%20-%20Kernel%20SVM/Python)
     * [Example](/Part%203%20-%20Classification/Section%2017%20-%20Kernel%20SVM/Python/kernel_svm.ipynb)
     * Types of Kernel functions: 
       * Gaussian RBF Kernel. $K(x,l^i) = e^{-\frac{1}{2}(\frac{x-l^i}{\sigma})^2}$
       * Sigmoid Kernel. $K(x,y) = tanh(\gamma X^T + r)$ 
       * Polynomial Kernel. $K(x,y) = (\gamma X^T Y + r)^d$
+  * [Naive Bayes Classifier](/Part%203%20-%20Classification/Section%2018%20-%20Naive%20Bayes/Python/)
+    * [Example](/Part%203%20-%20Classification/Section%2018%20-%20Naive%20Bayes/Python/naive_bayes.ipynb)
+  * [Decision Tree Classification](/Part%203%20-%20Classification/Section%2019%20-%20Decision%20Tree%20Classification/Python/)
+    * [Example](/Part%203%20-%20Classification/Section%2019%20-%20Decision%20Tree%20Classification/Python/decision_tree_classification.ipynb)
+  * [Random Forest Classification](/Part%203%20-%20Classification/Section%2020%20-%20Random%20Forest%20Classification/Python/)
+    * [Example](/Part%203%20-%20Classification/Section%2020%20-%20Random%20Forest%20Classification/Python/random_forest_classification.ipynb)
