@@ -8,8 +8,8 @@
 
 ```mermaid
 graph TD;
-CART --> Classification Tree;
-CART --> Regression Tree;
+A(CART) --> B(Classification Tree);
+A --> C(Regression Tree);
 ```
 To do a decision tree classification, we have to use the code below.
 

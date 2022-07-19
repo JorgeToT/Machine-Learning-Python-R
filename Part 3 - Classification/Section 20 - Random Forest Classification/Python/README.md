@@ -14,10 +14,10 @@ When you take multiple ML algorithms and combine them to create a new algorithm,
 
 ```mermaid
 graph TD;
-Step 1: Pick random K dato points from the training set. -> Step 2: Build the Decision Tree associated with the K data points.;
-Step 2: Build the Decision Tree associated with the K data points. -> Step 3: Choose the number of trees to build.;
-Step 3: Choose the number of trees to build. -> Step 1: Pick random K dato points from the training set.;
-Step 3: Choose the number of trees to build. -> Step 4: For a new data point make the predict in ecah of the trees and assign the new data point to the category with the most votes.;
+A(Step 1: Pick random K dato points from the training set.) --> B(Step 2: Build the Decision Tree associated with the K data points.);
+B --> C(Step 3: Choose the number of trees to build.);
+C --> |n times| A;
+C --> D(Step 4: For a new data point make the predict in ecah of the trees and assign the new data point to the category with the most votes.);
 ```
 
 To create a random forest, you must to use the code below.
