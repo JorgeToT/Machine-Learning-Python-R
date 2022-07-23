@@ -45,3 +45,7 @@
     * [Example](/Part%203%20-%20Classification/Section%2019%20-%20Decision%20Tree%20Classification/Python/decision_tree_classification.ipynb)
   * [Random Forest Classification](/Part%203%20-%20Classification/Section%2020%20-%20Random%20Forest%20Classification/Python/)
     * [Example](/Part%203%20-%20Classification/Section%2020%20-%20Random%20Forest%20Classification/Python/random_forest_classification.ipynb)
+
+  * Part 4: Clustering
+    * [K-Means Clustering](/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/Python/)
+      * [Example](/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/Python/k_means_clustering.ipynb)
