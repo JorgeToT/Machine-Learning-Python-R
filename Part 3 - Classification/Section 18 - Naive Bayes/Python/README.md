@@ -1,4 +1,9 @@
 # Naive Bayes
+
+[Home](/.)
+
+[Example](naive_bayes.ipynb)
+
 By using the Naive Bayes algorithm, we can classify a new data point based on the existing data.
 
 It based on the assumption that the probability of a data point belonging to a class is proportional to the probability of the data point belonging to each of the features in the class.

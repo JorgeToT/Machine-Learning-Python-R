@@ -49,3 +49,8 @@
 * Part 4: Clustering
   * [K-Means Clustering](/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/Python/)
     * [Example](/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/Python/k_means_clustering.ipynb)
+    * This model is used to cluster data points into groups. The groups are represented by a set of centroids.
+    * Works better in large data sets.
+  * [Hierarchical Clustering](/Part%204%20-%20Clustering/Section%2025%20-%20Hierarchical%20Clustering/Python/)
+    * [Example](/Part%204%20-%20Clustering/Section%2025%20-%20Hierarchical%20Clustering/Python/hierarchical_clustering.ipynb)
+    * This model join the closest clusters together to form a new cluster.
