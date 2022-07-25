@@ -54,3 +54,8 @@
   * [Hierarchical Clustering](/Part%204%20-%20Clustering/Section%2025%20-%20Hierarchical%20Clustering/Python/)
     * [Example](/Part%204%20-%20Clustering/Section%2025%20-%20Hierarchical%20Clustering/Python/hierarchical_clustering.ipynb)
     * This model join the closest clusters together to form a new cluster.
+
+* Part 5: Association Rule Learning
+  * The Association Rule Learning (ARL) model is used to discover association rules. It means that it finds the rules that are most likely to be true.
+  * [Apriori](/Part%205%20-%20Association%20Rule%20Learning/Section%2028%20-%20Apriori/Python/)
+    * [Example](/Part%205%20-%20Association%20Rule%20Learning/Section%2028%20-%20Apriori/Python/apriori.ipynb)
