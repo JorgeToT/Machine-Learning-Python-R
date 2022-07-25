@@ -58,4 +58,8 @@
 * Part 5: Association Rule Learning
   * The Association Rule Learning (ARL) model is used to discover association rules. It means that it finds the rules that are most likely to be true.
   * [Apriori](/Part%205%20-%20Association%20Rule%20Learning/Section%2028%20-%20Apriori/Python/)
+    * This model have the following parameter: support, confidence, lift.
     * [Example](/Part%205%20-%20Association%20Rule%20Learning/Section%2028%20-%20Apriori/Python/apriori.ipynb)
+  * [Eclat](/Part%205%20-%20Association%20Rule%20Learning/Section%2029%20-%20Eclat/Python/)
+    * This model have the following parameter: support.
+    * [Example](/Part%205%20-%20Association%20Rule%20Learning/Section%2029%20-%20Eclat/Python/eclat.ipynb)
