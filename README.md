@@ -63,3 +63,10 @@
   * [Eclat](/Part%205%20-%20Association%20Rule%20Learning/Section%2029%20-%20Eclat/Python/)
     * This model have the following parameter: support.
     * [Example](/Part%205%20-%20Association%20Rule%20Learning/Section%2029%20-%20Eclat/Python/eclat.ipynb)
+
+* Part 6: Reinforcement Learning
+  * We will learn how to use the Reinforcement Learning (RL) model. It is used to solve interacting problems where the data observed up to time t is considered to decide which action to take at time t + 1. It is also used for Artificial Intelligence when training machines to perform tasks such as walking.
+  * Try to solve the multi-armed bandit problem.
+  * [Upper Confidence Bound (UCB)](/Part%206%20-%20Reinforcement%20Learning/Section%2032%20-%20Upper%20Confidence%20Bound%20(UCB)/Python/)
+    * This model is used to select the action with the highest expected value.
+    * [Example](/Part%206%20-%20Reinforcement%20Learning/Section%2032%20-%20Upper%20Confidence%20Bound%20(UCB)/Python/upper_confidence_bound.ipynb)
