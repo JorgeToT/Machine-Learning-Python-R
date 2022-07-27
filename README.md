@@ -69,4 +69,11 @@
   * Try to solve the multi-armed bandit problem.
   * [Upper Confidence Bound (UCB)](/Part%206%20-%20Reinforcement%20Learning/Section%2032%20-%20Upper%20Confidence%20Bound%20(UCB)/Python/)
     * This model is used to select the action with the highest expected value.
+    * It's a deterministic model.
+    * Requires update at every round.
     * [Example](/Part%206%20-%20Reinforcement%20Learning/Section%2032%20-%20Upper%20Confidence%20Bound%20(UCB)/Python/upper_confidence_bound.ipynb)
+  * [Thompson Sampling](/Part%206%20-%20Reinforcement%20Learning/Section%2033%20-%20Thompson%20Sampling/Python/)
+    * It's a probabilistic model.
+    * Can accomodate delayed information.
+    * Better empirical performance than UCB.
+    * [Example](/Part%206%20-%20Reinforcement%20Learning/Section%2033%20-%20Thompson%20Sampling/Python/thompson_sampling.ipynb)
